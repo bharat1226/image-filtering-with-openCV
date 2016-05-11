@@ -1,0 +1,5 @@
+﻿  imageFiltering.cpp
+c:\users\bhara\documents\visual studio 2015\projects\imagefiltering\filter.h(40): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\bhara\documents\visual studio 2015\projects\imagefiltering\filter.h(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\bhara\documents\visual studio 2015\projects\imagefiltering\imagefiltering.cpp(31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ImageFiltering.vcxproj -> C:\Users\bhara\Documents\Visual Studio 2015\Projects\ImageFiltering\Debug\ImageFiltering.exe
